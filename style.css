@@ -96,7 +96,7 @@ height:40vh;
 }
 .logo{
     width:30vw;
-    height:100vh;
+    height:auto;
     padding-top: 3%;
 }
 .product{
